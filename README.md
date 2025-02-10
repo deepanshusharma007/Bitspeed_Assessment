@@ -43,7 +43,7 @@ Follow these steps to set up and run the project:
 
 ### 1️⃣ Clone the Repository
 ```sh
- git clone <your-repo-url>
+ git clone https://github.com/deepanshusharma007/Bitspeed_Assessment
  cd backend
 ```
 
