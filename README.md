@@ -110,6 +110,8 @@ SERVER_PORT=5000
 
 (Insert an image of your API working here, e.g., a successful response from Postman or the UI form.)
 
+![image](https://github.com/user-attachments/assets/5666a18c-8080-40a0-b4f2-7d474299d5bf)
+
 ---
 
 ## 📌 Notes
@@ -129,9 +131,3 @@ Feel free to open issues or submit pull requests to enhance the project.
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-
-## OUTPUT
-
-![image](https://github.com/user-attachments/assets/5666a18c-8080-40a0-b4f2-7d474299d5bf)
-
